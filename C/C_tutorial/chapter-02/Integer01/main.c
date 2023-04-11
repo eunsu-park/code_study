@@ -3,19 +3,19 @@
 
 int main()
 {
-    char CH = 'A';
+    char ch = 'A';
     // wchar_t WCH = L'A';
-    short S = 10;
-    int I = 10;
-    long L = 10L;
-    long int LI = 10L;
-    long long int LLI = 10LL;
+    short s = 10;
+    int i = 10;
+    long l = 10L;
+    long int li = 10L;
+    long long int lli = 10LL;
 
-    unsigned char UCH = 0;
-    unsigned short US = 65535U;
-    unsigned int UI = 1U;
-    unsigned long int ULI = 1UL;
-    unsigned long long int ULLI = 1ULL;
+    unsigned char uch = 0;
+    unsigned short us = 65535U;
+    unsigned int ui = 1U;
+    unsigned long int uli = 1UL;
+    unsigned long long int ulli = 1ULL;
 
     return 0;
 }

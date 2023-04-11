@@ -9,7 +9,7 @@ int main()
 {
     //결과를 저장하는 변수입니다.
     int Result = 10;
-    char CH = 'A'; //사용자 입력
+    char ch = 'A'; //사용자 입력
 
 // printf("Hello, World!\n");
     return 0;

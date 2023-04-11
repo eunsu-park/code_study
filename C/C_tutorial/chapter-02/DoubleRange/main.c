@@ -4,9 +4,9 @@
 
 int main()
 {
-    double D = 123.456;
+    double Data = 123.456;
 
-    printf("%f\n", D);
+    printf("%f\n", Data);
     printf("%E - %E\n", DBL_MIN, DBL_MAX);
 
     return 0;
