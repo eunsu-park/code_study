@@ -1,3 +1,4 @@
+// p.27
 #include <stdio.h>
 
 int main()
