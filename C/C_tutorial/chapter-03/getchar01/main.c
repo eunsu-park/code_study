@@ -3,10 +3,10 @@
 
 int main()
 {
-    char CH = 0;
-    CH = getchar();
+    char ch = 0;
+    ch = getchar();
 
-    putchar(CH);
+    putchar(ch);
 
     putchar('Z');
 
