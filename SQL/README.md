@@ -1,1 +1,1 @@
-# code_study
+# PostgreSQL study + Notion Work

@@ -1,0 +1,11 @@
+CREATE TABLE book_info (
+	id INTEGER NOT NULL PRIMARY KEY
+	name VARCHAR(20) NOT NULL
+);
+
+INSERT INTO book_id VALUES(1, 'POSTGRESQL'), (2, 'MONGODB');
+
+ALTER TABLE book_info
+ADD COLUMN published_date DATE;
+
+SELECT * FROM book_info;
